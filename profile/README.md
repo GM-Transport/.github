@@ -14,3 +14,4 @@ En **GM Transport**, creemos que el futuro del transporte depende de soluciones 
 - Soluciones modulares y escalables adaptables a diferentes tipos de flotas
 - Herramientas de código como infraestructura para soluciones de despliegues
 ---
+![Logo de Grupo GM Transport](https://www.softwareparatransporte.com/GMTERPV8_WEB/LOGIN_LOGOGM.png)
